@@ -211,15 +211,17 @@ export default {
 }
 
 .preview {
-  background: #FFFFFF;
-  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  background: #f2f2f2;
+  box-shadow: 0 4px 4px rgba(12, 12, 12, 0.25);
   border-radius: 5px;
   min-width: 45%;
   display: flex;
   flex-direction: column;
   margin-right: 45px;
-  max-height: 90%;
+  /*max-height: 90%;*/
+  height: fit-content;
   gap: 10px;
+  margin-bottom: 45px;
 }
 
 .preview-image {
