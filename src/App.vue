@@ -8,7 +8,7 @@
 <style>
 .main-container {
   background-color: #F7F7F9;
-  height:90vh;
+  height:100%;
 }
 /* When view width is smaller than 850 pixels change height */
 @media all and (max-width: 850px) {

@@ -76,6 +76,6 @@ export default {
 
 .item-container:hover {
   cursor: pointer;
-  background-color: #eef6f5;
+  background-color: #5ae0cc;
 }
 </style>

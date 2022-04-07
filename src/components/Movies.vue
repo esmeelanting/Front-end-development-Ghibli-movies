@@ -177,7 +177,7 @@ export default {
 .container {
   overflow: scroll;
   min-width: 50%;
-  max-height: 90%;
+  max-height: 90vh;
   overflow-x: hidden;
 }
 .item-container {
@@ -218,7 +218,6 @@ export default {
   display: flex;
   flex-direction: column;
   margin-right: 45px;
-  max-height: 90%;
   gap: 10px;
 }
 
